@@ -9,7 +9,7 @@ Given an array of integers (which can include both positive and negative values)
 #### Example
 For the input array:
 nums = [7,2,5,8,6]
-the will return [7,8,6] with a sum of 21
+this will return [7,8,6] with a sum of 21
 
 ## How to run
 To run the script, simply execute the following into your terminal: python MaxSet.py 
